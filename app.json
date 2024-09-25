@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "imagiforge-mobile",
-    "slug": "imagiforge-mobile",
+    "name": "Ecolumen",
+    "slug": "ecolumen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.adnantemur.imagiforgemobile",
+      "package": "com.adnantemur.ecolumen",
       "permissions": ["INTERNET"]
     },
     "web": {
@@ -36,7 +36,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "e4e609cd-c643-49b1-9bd8-72225f514651"
+        "projectId": "7c681665-461d-4c30-b32f-05962b283629"
       }
     }
   }
