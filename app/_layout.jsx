@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingTop: 30,
-    paddingBottom: 30,
+    backgroundColor: 'rgb(40, 66, 89)',
   },
   webview: {
     flex: 1,
